@@ -1,6 +1,9 @@
 # Neural-Units
-A neural network frame built in C#, Easy to be understood, learn and use. it's NOT based on any other project, like Tensorflow.
+A neural network frame built in C#, Easy to be understood, learn and use.
 
+it's NOT based on any other project, like Tensorflow.
+
+```csharp
 //import NeuralUnits.dll into project
 using NeuralUnits;
 
@@ -94,12 +97,17 @@ b["C2"].backward_convolute(b["I1"], 1);
 
 //print loss
 double loss = b["F12"].report_loss(labels);
+```
 
-//it have activtion functions below
+## it have activtion functions below
 ELU();
+
 ReLU();
+
 SELU();
+
 sigmoid();
+
 tanh();
 
 Neural-Units can't run on GPU.
