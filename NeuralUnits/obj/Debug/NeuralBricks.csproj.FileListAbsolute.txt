@@ -1,0 +1,6 @@
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\bin\Debug\NeuralBricks.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\bin\Debug\NeuralBricks.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\obj\Debug\NeuralBricks.csproj.CoreCompileInputs.cache
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\obj\Debug\NeuralBricks.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\obj\Debug\NeuralBricks.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBricks\obj\Debug\NeuralBricks.csprojResolveAssemblyReference.cache

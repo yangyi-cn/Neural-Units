@@ -1,0 +1,6 @@
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\bin\Debug\NeuralUnits.dll
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\bin\Debug\NeuralUnits.pdb
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\obj\Debug\NeuralUnits.csprojAssemblyReference.cache
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\obj\Debug\NeuralUnits.csproj.CoreCompileInputs.cache
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\obj\Debug\NeuralUnits.dll
+H:\Projects\神经网络\NeuralUnits\NeuralUnits\obj\Debug\NeuralUnits.pdb

@@ -1,0 +1,12 @@
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\bin\Debug\NeuralBlock.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\bin\Debug\NeuralBlock.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Debug\NeuralBlock.csproj.CoreCompileInputs.cache
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Debug\NeuralBlock.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Debug\NeuralBlock.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Debug\NeuralBlock.csprojResolveAssemblyReference.cache
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\bin\Debug\NeuralBlock.dll
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\bin\Debug\NeuralBlock.pdb
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\obj\Debug\NeuralBlock.csprojAssemblyReference.cache
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\obj\Debug\NeuralBlock.csproj.CoreCompileInputs.cache
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\obj\Debug\NeuralBlock.dll
+H:\Projects\神经网络\NeuralUnits\NeuralBlock\obj\Debug\NeuralBlock.pdb

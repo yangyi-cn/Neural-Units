@@ -1,0 +1,6 @@
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\bin\Release\NeuralBlock.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\bin\Release\NeuralBlock.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Release\NeuralBlock.csproj.CoreCompileInputs.cache
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Release\NeuralBlock.dll
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Release\NeuralBlock.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\NeuralBlock\obj\Release\NeuralBlock.csprojAssemblyReference.cache

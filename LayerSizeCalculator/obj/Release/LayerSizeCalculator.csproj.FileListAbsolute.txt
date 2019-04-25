@@ -1,0 +1,10 @@
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\bin\Release\LayerSizeCalculator.exe.config
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\bin\Release\LayerSizeCalculator.exe
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\bin\Release\LayerSizeCalculator.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.Calculator.resources
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.Properties.Resources.resources
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.csproj.GenerateResource.Cache
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.csproj.CoreCompileInputs.cache
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.exe
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.pdb
+H:\软件工程\〔工程〕人工智能\神经网络2\LayerSizeCalculator\obj\Release\LayerSizeCalculator.csprojAssemblyReference.cache
